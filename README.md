@@ -70,9 +70,9 @@ required tools for the task.
 Note: The circuit should be like the following figure & the code is
 attached as a separate file in the repository.
 
-[]
+![Circuit](3%20LEDs%20with%20Buttons%20Circuit.png)
 
-Figure 1: Circuit
+<p align="center"><em>Figure 1: Circuit</em></p>
 
 As shown in Figure 1, each button controls one LED. For illustration,
 the left button is responsible for red LED, whereas the right button
@@ -82,18 +82,17 @@ operates the blue LED. The green LED is connected to the middle button.
 
 ## Output 
 
-[]
+![Red LED](Red%20LED.png)
 
-Figure 2: Red LED
+<p align="center"><em>Figure 2: Red LED</em></p>
 
-[A circuit board with wires connected to it AI-generated content may be
-incorrect.]
+![Green LED](Green%20LED.png)
 
-Figure 3: Green LED
+<p align="center"><em>Figure 3: Green LED</em></p>
 
-[]
+![Blue LED](Blue%20LED.png)
 
-Figure 4: Blue LED
+<p align="center"><em>Figure 4: Blue LED</em></p>
 
 The previous figures display the output of the program. Once the
 simulation starts, pressing a button lights up the corresponding LED. If
