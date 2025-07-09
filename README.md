@@ -47,7 +47,7 @@ As shown in Figure 1, each button controls one LED. For illustration, the left b
 ## Output
 
 <p align="center">
-  <img src="[Red LED.png]/red_led.png" alt="Red LED">
+  <img src="Red LED.png/red_led.png" alt="Red LED">
   <br><b>Figure 2: Red LED</b>
 </p>
 
