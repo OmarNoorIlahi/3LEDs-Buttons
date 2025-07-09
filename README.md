@@ -4,8 +4,8 @@
 
 - [Overview](#overview)
 - [Methods](#methods)
-- [Equipment](#equipment)
-- [Procedure](#procedure)
+  - [Equipment](#equipment)
+  - [Procedure](#procedure)
 - [Output](#output)
 
 ---
@@ -24,9 +24,7 @@ using individual push buttons.
 First, the main environment is Tinkercad as this program provides the
 required tools for the task.
 
----
-
-## Equipment
+### Equipment
 
 | Component        | Quantity                |
 |------------------|------------------------|
@@ -37,9 +35,7 @@ required tools for the task.
 | Resistor         | 3 of 220 Ω             |
 | Wires            | 14                     |
 
----
-
-## Procedure 
+### Procedure 
 
 -   Insert the push buttons on the breadboard, connecting in parallel.
 
